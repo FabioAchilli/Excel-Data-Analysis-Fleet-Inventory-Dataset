@@ -4,7 +4,7 @@ Simple Excel Data Analysis and Visual Presentation Vehicle Equipment Inventory D
 ### Source:
 [US Open Data Portal.gov](https://data.world/datagov-us)
 
-### original .csv file:
+### Original dataset and .csv file:
 [Fleet Equipment Inventory Dataset in Montgomery County](https://data.world/montgomery-county-of-maryland/1f06ef22-f2db-433c-b589-59afcab814ce)
 
 ### Preliminary actions: 
