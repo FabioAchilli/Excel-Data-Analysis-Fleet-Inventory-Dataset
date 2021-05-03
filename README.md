@@ -23,6 +23,6 @@ calculate the total number of unique Departments and unique Equipment Classes wi
 ### Spreadsheet: 
 1 spreadsheet with 4 charts to summarize/visualize different aspects about Departments, Equipment Class and Equipment Counts.
 
-### Link to my Excel worksheet:
+### Link to my Excel workbook:
 [Data Analysis Fleet Equipment Inventory Dataset in Montgomery County.xlxs](https://onedrive.live.com/view.aspx?resid=5BBAC36967FA3E3C!19651&ithint=file%2cxlsx&authkey=!AC6OIdWW0-vKoaQ)
 
